@@ -1,0 +1,19 @@
+<div class="desktop-1-4AB" id="20:2">
+<div class="auto-group-5gy7-DhH" id="2epf6HfJe3VpgPNhgz5gY7">
+<div class="rectangle-28-ew1" id="32:101"></div>
+<p class="cloth-factory-kj9" id="32:103">Cloth Factory</p>
+</div>
+<p class="feedback-about-our-services-pDD" id="32:106">Feedback About Our Services</p>
+<p class="your-opinion-matters--uEf" id="32:107">YOUR OPINION MATTERS !</p>
+<div class="auto-group-b54t-24P" id="2epfSCFoTiXyV4JBL2b54T">
+<div class="auto-group-4pek-Vif" id="2epfBxAXwFLF2TetTz4peK">
+<img class="star-1-BrP" src="/api/prod-ap-southeast-1-first-cluster/projects/z4..." id="32:108"/>
+<img class="star-2-irK" src="/api/prod-ap-southeast-1-first-cluster/projects/z4..." id="32:110"/>
+<img class="star-5-rxX" src="/api/prod-ap-southeast-1-first-cluster/projects/z4..." id="32:113"/>
+<img class="star-4-PxT" src="/api/prod-ap-southeast-1-first-cluster/projects/z4..." id="32:112"/>
+<img class="star-3-MPV" src="/api/prod-ap-southeast-1-first-cluster/projects/z4..." id="32:111"/>
+</div>
+<p class="consumer-feedback-isthe-opinion-or-reaction-of-the-people-who-buy-or-use-our-fashion-items-it-can-help-us-understand-how-our-products-perform-what-features-or-benefits-we-have-to-offer-and-how-you-compare-to-our-competitors-54b" id="32:114">Consumer feedback is the opinion or reaction of the people who buy or use our fashion items. It can help us understand how our products perform, what features or benefits we have to offer, and how you compare to our competitors.</p>
+</div>
+<div class="auto-group-3xod-Xqh" id="2epfLSvNt45sYa5AdV3Xod">© 2022 Cloth Factory.com, Inc. or its affiliates. All rights reserved</div>
+</div>

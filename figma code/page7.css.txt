@@ -1,0 +1,97 @@
+.offers-mhR {
+  align-items: flex-end;
+  background-color: #9e7a7a;
+  background-image: url('/api/prod-ap-southeast-1-first-cluster/projects/z4gWykvxPSUkCeS9rGF4u/files/image/e7a684dbe16bab26dd9a83e8d972d6fa1d6364be');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+  position: relative;
+  width: 100%;
+
+  .auto-group-1arm-bwM {
+    align-items: center;
+    background-color: rgba(217, 217, 217, 0.6000000238);
+    color: #000000;
+    display: flex;
+    flex-shrink: 0;
+    font-family: Italiana, 'Source Sans Pro';
+    font-size: 12.8rem;
+    font-weight: 400;
+    height: 20.1rem;
+    justify-content: center;
+    line-height: 1.1775;
+    margin-bottom: 19rem;
+    white-space: nowrap;
+    width: 100%;
+  }
+  .icon-sell-1-hFd {
+    flex-shrink: 0;
+    height: 12.3rem;
+    margin: 0rem 13.8rem 3.8rem 0rem;
+    object-fit: contain;
+    position: relative;
+    vertical-align: top;
+    width: 15.5rem;
+  }
+  .icon-parcel-pickup-1-yD9 {
+    flex-shrink: 0;
+    height: 12.7rem;
+    margin: 0rem 29.8rem 6.9rem 0rem;
+    object-fit: contain;
+    position: relative;
+    vertical-align: top;
+    width: 15.5rem;
+  }
+  .icon-deliver-1-spK {
+    flex-shrink: 0;
+    height: 13.3rem;
+    margin: 0rem 16.4rem 9.9rem 0rem;
+    object-fit: contain;
+    position: relative;
+    vertical-align: top;
+    width: 15.5rem;
+  }
+  .auto-group-dudq-ze3 {
+    align-items: center;
+    background-color: #2e2a2a;
+    box-sizing: border-box;
+    display: flex;
+    flex-shrink: 0;
+    padding: 4.9rem 0.2rem 3.9rem 11rem;
+    width: 100%;
+
+    .terms-of-use-7Cs {
+      color: #00bee7;
+      flex-shrink: 0;
+      font-family: Josefin Sans, 'Source Sans Pro';
+      font-size: 3.6rem;
+      font-weight: 400;
+      line-height: 1;
+      margin-right: 12.9rem;
+      white-space: nowrap;
+    }
+    .privacy-notice-Dmh {
+      color: #0fc0f8;
+      flex-shrink: 0;
+      font-family: Josefin Sans, 'Source Sans Pro';
+      font-size: 3.6rem;
+      font-weight: 400;
+      line-height: 1;
+      margin-right: 9.6rem;
+      white-space: nowrap;
+    }
+    .cloth-factorycom-inc-or-its-affiliates-all-rights-reserved-KZq {
+      color: #ffffff;
+      flex-shrink: 0;
+      font-family: Josefin Sans, 'Source Sans Pro';
+      font-size: 2rem;
+      font-weight: 400;
+      line-height: 1;
+      margin-bottom: 0.8rem;
+      white-space: nowrap;
+    }
+  }
+}

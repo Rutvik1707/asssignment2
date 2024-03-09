@@ -1,0 +1,11 @@
+<div class="offers-mhR" id="19:5">
+<div class="auto-group-1arm-bwM" id="2epedtFdgaURbWin3W1ARM">Cloth Factory</div>
+<img class="icon-sell-1-hFd" src="/api/prod-ap-southeast-1-first-cluster/projects/z4..." id="31:9"/>
+<img class="icon-parcel-pickup-1-yD9" src="/api/prod-ap-southeast-1-first-cluster/projects/z4..." id="31:29"/>
+<img class="icon-deliver-1-spK" src="/api/prod-ap-southeast-1-first-cluster/projects/z4..." id="31:48"/>
+<div class="auto-group-dudq-ze3" id="2epej3mhH2ckP7L1HEdudq">
+<p class="terms-of-use-7Cs" id="31:98">Terms of use</p>
+<p class="privacy-notice-Dmh" id="31:99">Privacy notice</p>
+<p class="cloth-factorycom-inc-or-its-affiliates-all-rights-reserved-KZq" id="31:100">© 2022 Cloth Factory.com, Inc. or its affiliates. All rights reserved</p>
+</div>
+</div>

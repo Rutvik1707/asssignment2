@@ -1,0 +1,202 @@
+.wlcm-PdR {
+  align-items: center;
+  background-color: #60669c;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+  padding: 0.2rem 16.7rem 0rem 9.7rem;
+  position: relative;
+  width: 100%;
+
+  .auto-group-3lgf-MTm {
+    flex-shrink: 0;
+    height: 8.9rem;
+    margin: 0rem 31.6rem 0.2rem 29.6rem;
+    position: relative;
+    width: calc(100% - 61.2rem);
+
+    .c-l-o-t-h-f-a-c-t-o-r-y-r9d {
+      color: #ffffff;
+      font-family: Irish Grover, 'Source Sans Pro';
+      font-size: 6.4rem;
+      font-weight: 400;
+      height: 7.8rem;
+      left: 0;
+      line-height: 1.21;
+      position: absolute;
+      text-align: center;
+      top: 1.1rem;
+      white-space: nowrap;
+      width: 61.4rem;
+    }
+    .polygon-1-UB1 {
+      height: 3.6rem;
+      left: 8.4rem;
+      object-fit: contain;
+      position: absolute;
+      top: 0;
+      vertical-align: top;
+      width: 4.4rem;
+    }
+    .polygon-2-zv3 {
+      height: 3.4rem;
+      left: 46.6rem;
+      object-fit: contain;
+      position: absolute;
+      top: 0.2rem;
+      vertical-align: top;
+      width: 4.4rem;
+    }
+  }
+  .auto-group-fdvz-ir3 {
+    flex-shrink: 0;
+    height: 12.1rem;
+    margin-bottom: 33.3rem;
+    position: relative;
+    width: 100%;
+
+    .line-1-eUo {
+      height: 0.1rem;
+      left: 0;
+      position: absolute;
+      top: 10.6rem;
+      width: 122.6rem;
+    }
+    .rectangle-21-PSP {
+      background-color: rgba(217, 217, 217, 0.5);
+      border-radius: 8rem;
+      height: 6.1rem;
+      left: 18.4rem;
+      position: absolute;
+      top: 1.1rem;
+      width: 85.8rem;
+    }
+    .download-2-gwH {
+      height: 6.4rem;
+      left: 94.6rem;
+      object-fit: cover;
+      position: absolute;
+      top: 0.8rem;
+      vertical-align: top;
+      width: 6.4rem;
+    }
+    .istockphoto-1206806317-612x612-1-cK9 {
+      height: 6rem;
+      left: 105.8rem;
+      object-fit: cover;
+      position: absolute;
+      top: 1.2rem;
+      vertical-align: top;
+      width: 7.4rem;
+    }
+    .cart-v4w {
+      color: #ffffff;
+      font-family: Josefin Sans, 'Source Sans Pro';
+      font-size: 4.8rem;
+      font-style: italic;
+      font-weight: 300;
+      height: 4.8rem;
+      left: 111.8rem;
+      line-height: 1;
+      position: absolute;
+      top: 2.4rem;
+      white-space: nowrap;
+      width: 9.3rem;
+    }
+    .search-DZq {
+      color: rgba(0, 0, 0, 0.5);
+      font-family: Josefin Sans, 'Source Sans Pro';
+      font-size: 4.8rem;
+      font-style: italic;
+      font-weight: 300;
+      height: 4.8rem;
+      left: 47.5rem;
+      line-height: 1;
+      position: absolute;
+      top: 1.8rem;
+      white-space: nowrap;
+      width: 15.4rem;
+    }
+    .cf-j2P {
+      color: #ffffff;
+      font-family: JejuHallasan, 'Source Sans Pro';
+      font-size: 9.6rem;
+      font-weight: 400;
+      height: 12.1rem;
+      left: 3rem;
+      line-height: 1.2575;
+      position: absolute;
+      top: 0;
+      white-space: nowrap;
+      width: 10.3rem;
+    }
+  }
+  .frame-1-EE3 {
+    flex-shrink: 0;
+    height: 0.2rem;
+    margin: 0rem 30.2rem 41.6rem 88rem;
+    overflow: hidden;
+    position: relative;
+    width: calc(100% - 118.2rem);
+  }
+  .auto-group-th9q-XU3 {
+    align-items: center;
+    display: flex;
+    flex-shrink: 0;
+    margin: 0rem 12.7rem 0rem 13.7rem;
+    width: calc(100% - 26.4rem);
+
+    .get-to-know-us-about-us-careers-eoZ {
+      color: #ffffff;
+      flex-shrink: 0;
+      font-family: JejuHallasan, 'Source Sans Pro';
+      font-size: 2.4rem;
+      font-weight: 400;
+      line-height: 1.2575;
+      margin: 0rem 49.3rem 1rem 0rem;
+      max-width: 22.4rem;
+
+      .get-to-know-us-about-us-careers-eoZ-sub-0 {
+        color: #ffffff;
+        font-family: JejuHallasan, 'Source Sans Pro';
+        font-size: 3.6rem;
+        font-weight: 400;
+        line-height: 1.2575;
+      }
+      .get-to-know-us-about-us-careers-eoZ-sub-1 {
+      }
+      .get-to-know-us-about-us-careers-eoZ-sub-2 {
+        color: #ffffff;
+        font-family: JejuHallasan, 'Source Sans Pro';
+        font-size: 2.4rem;
+        font-weight: 400;
+        line-height: 1.2575;
+      }
+    }
+    .connect-with-us-facebook-twitter-instagram-13m {
+      color: #ffffff;
+      flex-shrink: 0;
+      font-family: JejuHallasan, 'Source Sans Pro';
+      font-size: 2.4rem;
+      font-weight: 400;
+      line-height: 1.006000042;
+      max-width: 24.5rem;
+
+      .connect-with-us-facebook-twitter-instagram-13m-sub-0 {
+        color: #ffffff;
+        font-family: JejuHallasan, 'Source Sans Pro';
+        font-size: 3.6rem;
+        font-weight: 400;
+        line-height: 1.2575;
+      }
+      .connect-with-us-facebook-twitter-instagram-13m-sub-1 {
+        color: #ffffff;
+        font-family: JejuHallasan, 'Source Sans Pro';
+        font-size: 2.4rem;
+        font-weight: 400;
+        line-height: 1.2575;
+      }
+    }
+  }
+}

@@ -1,0 +1,14 @@
+.home-2-CdV {
+  background-color: #d0bdbd;
+  height: 110.4rem;
+  overflow: hidden;
+  position: relative;
+  width: 100%;
+
+  .image-29-fGB {
+    height: 110.4rem;
+    object-fit: cover;
+    vertical-align: top;
+    width: 144rem;
+  }
+}

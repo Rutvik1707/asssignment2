@@ -1,0 +1,91 @@
+.home-nTR {
+  background-color: #846161;
+  height: 110.4rem;
+  overflow: hidden;
+  position: relative;
+  width: 100%;
+
+  .line-18-nrj {
+    background-color: #ffffff;
+    height: 0.1rem;
+    left: 24rem;
+    position: absolute;
+    top: 19.2rem;
+    width: 93.3rem;
+  }
+  .about-us-1Ub {
+    color: #ffffff;
+    font-family: Kavoon, 'Source Sans Pro';
+    font-size: 9.6rem;
+    font-weight: 400;
+    height: 12rem;
+    left: 50.1rem;
+    line-height: 1.25;
+    position: absolute;
+    top: 5.9rem;
+    white-space: nowrap;
+    width: 41.2rem;
+  }
+  .cloth-factory-is-guided-by-four-principles-customer-obsession-rather-than-competitor-focus-passion-for-invention-commitment-to-operational-excellence-and-long-term-thinking-cf-strives-to-be-earths-most-customer-centric-company-earths-best-employer-and-earths-safest-place-to-work-customer-reviews-1-click-shopping-personalized-recommendations-RoD {
+    color: #000000;
+    font-family: Josefin Sans, 'Source Sans Pro';
+    font-size: 4.8rem;
+    font-weight: 700;
+    height: 33.6rem;
+    left: 15rem;
+    line-height: 1;
+    position: absolute;
+    top: 20.6rem;
+    width: 124.6rem;
+  }
+  .rectangle-24-WiB {
+    background-color: rgba(1, 1, 1, 0.5);
+    height: 39.8rem;
+    left: 6.2rem;
+    position: absolute;
+    top: 56.9rem;
+    width: 60.7rem;
+  }
+  .our-leadership-principles-are-more-than-inspirational-wall-hangings-the-16-principles-guide-our-discussions-and-decisions-every-day-RaF {
+    color: #ffffff;
+    font-family: Josefin Sans, 'Source Sans Pro';
+    font-size: 4.8rem;
+    font-weight: 400;
+    height: 33.6rem;
+    left: 9.6rem;
+    line-height: 1;
+    position: absolute;
+    top: 60rem;
+    width: 53.7rem;
+  }
+  .rectangle-25-dRR {
+    height: 40.8rem;
+    left: 74.9435rem;
+    object-fit: contain;
+    position: absolute;
+    top: 54.5176rem;
+    vertical-align: top;
+    width: 62.9rem;
+  }
+  .we-are-honoured-to-be-recognised-for-the-work-we-do-on-behalf-of-our-customers-employees-and-communities-every-day-Z4B {
+    color: #ffffff;
+    font-family: Josefin Sans, 'Source Sans Pro';
+    font-size: 4.8rem;
+    font-weight: 400;
+    height: 28.8rem;
+    left: 83rem;
+    line-height: 1;
+    position: absolute;
+    top: 61.7rem;
+    width: 50.7rem;
+  }
+  .image-30-D8j {
+    height: 98.5rem;
+    left: 0;
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    vertical-align: top;
+    width: 144rem;
+  }
+}

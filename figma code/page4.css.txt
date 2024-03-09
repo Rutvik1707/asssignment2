@@ -1,0 +1,196 @@
+.brands-g5V {
+  align-items: center;
+  background-color: #6ca5a5;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+  padding-bottom: 1.7rem;
+  position: relative;
+  width: 100%;
+
+  .auto-group-29qt-tST {
+    align-items: center;
+    background-image: url('/api/prod-ap-southeast-1-first-cluster/projects/z4gWykvxPSUkCeS9rGF4u/files/image/8dd014d85196d9cbeec9d6f2a45847e626fc8cae');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    flex-shrink: 0;
+    margin-bottom: 0.7rem;
+    padding: 3.9rem 0rem 0.9rem 0rem;
+    width: 100%;
+
+    .auto-group-6nyd-AYP {
+      align-items: center;
+      background-color: rgba(168, 73, 73, 0.5);
+      color: #000000;
+      display: flex;
+      flex-shrink: 0;
+      font-family: Josefin Sans, 'Source Sans Pro';
+      font-size: 4.8rem;
+      font-weight: 400;
+      height: 12.8rem;
+      justify-content: center;
+      line-height: 1;
+      margin: 0rem 18.3rem 2.1rem 18.3rem;
+      white-space: nowrap;
+      width: calc(100% - 36.6rem);
+    }
+    .auto-group-sky9-whZ {
+      align-items: flex-end;
+      display: flex;
+      flex-shrink: 0;
+      margin: 0rem 1.5rem 1.4rem 2.1rem;
+      width: calc(100% - 3.6rem);
+
+      .chrr004christiandiornew3874jpg-1-4nB {
+        flex-shrink: 0;
+        height: 14.2rem;
+        margin: 0rem 20.9rem 1rem 0rem;
+        object-fit: cover;
+        vertical-align: top;
+        width: 26.4rem;
+      }
+      .hc-checkout-logoa7a29980-1867-4b69-921d-d2296a6dd1c9-1-3u1 {
+        flex-shrink: 0;
+        height: 14.9rem;
+        margin: 0rem 27.5rem 2.1rem 0rem;
+        object-fit: cover;
+        vertical-align: top;
+        width: 39.9rem;
+      }
+      .hmaa001800pxhmlogosvg-1-kYX {
+        flex-shrink: 0;
+        height: 12.3rem;
+        object-fit: cover;
+        vertical-align: top;
+        width: 25.7rem;
+      }
+    }
+    .auto-group-xqrh-sNF {
+      align-items: flex-start;
+      display: flex;
+      flex-shrink: 0;
+      margin-right: 4.6rem;
+
+      .auto-group-bk2s-CvK {
+        align-items: center;
+        display: flex;
+        flex-direction: column;
+        flex-shrink: 0;
+        margin: 7.9rem 0.5rem 0rem 0rem;
+
+        .d204875959d9c40d1957f5bfb4wuq0ywdc0hjv2g-1-8JB {
+          flex-shrink: 0;
+          height: 16.3rem;
+          margin-bottom: 16.9rem;
+          object-fit: cover;
+          vertical-align: top;
+          width: 28rem;
+        }
+        .louis-vuitton-1-1-eGX {
+          flex-shrink: 0;
+          height: 19.2rem;
+          margin-right: 0.1rem;
+          object-fit: cover;
+          vertical-align: top;
+          width: 25.7rem;
+        }
+      }
+      .auto-group-ntpy-x2K {
+        align-items: flex-end;
+        display: flex;
+        flex-direction: column;
+        flex-shrink: 0;
+        margin: 0.2rem 2.6rem 0rem 0rem;
+
+        .ed97c67c917b86429019e61versace-1-1-tgf {
+          flex-shrink: 0;
+          height: 15.5rem;
+          margin: 0rem 7rem 20.7rem 0rem;
+          object-fit: cover;
+          vertical-align: top;
+          width: 33.9rem;
+        }
+        .bury001burberrylogo-1-kD5 {
+          flex-shrink: 0;
+          height: 12.5rem;
+          object-fit: cover;
+          vertical-align: top;
+          width: 31.1rem;
+        }
+      }
+      .auto-group-a2fh-HTu {
+        align-items: center;
+        display: flex;
+        flex-direction: column;
+        flex-shrink: 0;
+        width: 67.4rem;
+
+        .praa001pradalogo-1-3CB {
+          flex-shrink: 0;
+          height: 12rem;
+          margin: 0rem 17.3rem 6.5rem 0rem;
+          object-fit: cover;
+          vertical-align: top;
+          width: 25.7rem;
+        }
+        .auto-group-2n4f-9W7 {
+          align-items: flex-start;
+          display: flex;
+          flex-shrink: 0;
+          margin-bottom: 8.4rem;
+          width: 100%;
+
+          .images-1-hXd {
+            flex-shrink: 0;
+            height: 11.3rem;
+            margin-right: 9.1rem;
+            object-fit: cover;
+            vertical-align: top;
+            width: 28.8rem;
+          }
+          .nike-logo-1-H8T {
+            flex-shrink: 0;
+            height: 15.1rem;
+            margin-top: 3.9rem;
+            object-fit: cover;
+            vertical-align: top;
+            width: 29.5rem;
+          }
+        }
+        .zara002zaralogo-1-Qis {
+          flex-shrink: 0;
+          height: 13.3rem;
+          margin-right: 12.3rem;
+          object-fit: cover;
+          vertical-align: top;
+          width: 31.7rem;
+        }
+      }
+    }
+  }
+  .conditions-of-use-saleprivacy-noticeinterest-based-ads-1996-2024-cfcom-inc-or-its-affiliates-JZM {
+    color: #ffffff;
+    flex-shrink: 0;
+    font-family: Josefin Sans, 'Source Sans Pro';
+    font-size: 4.8rem;
+    font-weight: 400;
+    line-height: 1;
+    margin-right: 5.5rem;
+    max-width: 125.9rem;
+
+    .conditions-of-use-saleprivacy-noticeinterest-based-ads-1996-2024-cfcom-inc-or-its-affiliates-JZM-sub-0 {
+      color: #ffffff;
+      font-family: Josefin Sans, 'Source Sans Pro';
+      font-size: 4.8rem;
+      font-weight: 400;
+      line-height: 1;
+    }
+    .conditions-of-use-saleprivacy-noticeinterest-based-ads-1996-2024-cfcom-inc-or-its-affiliates-JZM-sub-1 {
+    }
+  }
+}

@@ -1,0 +1,10 @@
+<div class="home-nTR" id="16:2">
+<div class="line-18-nrj" id="16:3"></div>
+<p class="about-us-1Ub" id="25:10">About Us</p>
+<p class="cloth-factory-is-guided-by-four-principles-customer-obsession-rather-than-competitor-focus-passion-for-invention-commitment-to-operational-excellence-and-long-term-thinking-cf-strives-to-be-earths-most-customer-centric-company-earths-best-employer-and-earths-safest-place-to-work-customer-reviews-1-click-shopping-personalized-recommendations-RoD" id="25:13">Cloth Factory is guided by four principles: customer obsession rather than competitor focus, passion for invention, commitment to operational excellence, and long-term thinking. CF strives to be Earth’s most customer-centric company, Earth’s best employer, and Earth’s safest place to work. Customer reviews, 1-Click shopping, personalized recommendations.</p>
+<div class="rectangle-24-WiB" id="25:14"></div>
+<p class="our-leadership-principles-are-more-than-inspirational-wall-hangings-the-16-principles-guide-our-discussions-and-decisions-every-day-RaF" id="25:15">Our Leadership Principles are more than inspirational wall hangings. The 16 principles guide our discussions and decisions every day.</p>
+<img class="rectangle-25-dRR" src="/api/prod-ap-southeast-1-first-cluster/projects/z4..." id="25:16"/>
+<p class="we-are-honoured-to-be-recognised-for-the-work-we-do-on-behalf-of-our-customers-employees-and-communities-every-day-Z4B" id="25:17">We are honoured to be recognised for the work we do on behalf of our customers, employees, and communities every day.</p>
+<img class="image-30-D8j" src="/api/prod-ap-southeast-1-first-cluster/projects/z4..." id="25:25"/>
+</div>

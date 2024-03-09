@@ -1,0 +1,23 @@
+<div class="info-G2s" id="10:43">
+<div class="auto-group-xhd1-eJK" id="2epbApMzeqLXJtpBW1Xhd1">
+<p class="s-p-e-c-i-a-l-c-o-l-l-e-c-t-i-o-n-bWP" id="10:56">S P E C I A L C O L L E C T I O N</p>
+<div class="auto-group-n29v-SG7" id="2epbJPyhUbKeJTqNWXN29V">
+<div class="line-16-ZrX" id="10:57"></div>
+<p class="off-H1q" id="10:60">30% OFF</p>
+<div class="line-17-1Td" id="10:58"></div>
+</div>
+</div>
+<div class="auto-group-8j71-Vtb" id="2epbW998VJ4txg7sgF8J71">
+<img class="image-24-CHD" src="/api/prod-ap-southeast-1-first-cluster/projects/z4..." id="21:39"/>
+<img class="image-26-Vn7" src="/api/prod-ap-southeast-1-first-cluster/projects/z4..." id="21:43"/>
+<img class="image-23-pZV" src="/api/prod-ap-southeast-1-first-cluster/projects/z4..." id="21:37"/>
+<img class="image-28-MJX" src="/api/prod-ap-southeast-1-first-cluster/projects/z4..." id="22:47"/>
+</div>
+<div class="auto-group-zcy5-hNP" id="2epbeUEasBbAHxeVzezCy5">
+<p class="lethar-shoes-pC7" id="10:77">Lethar Shoes </p>
+<p class="sneakers-Yto" id="10:78">Sneakers </p>
+<p class="chelsis-Vp3" id="10:79">Chelsis</p>
+<p class="casual-shoes-34s" id="10:81">Casual Shoes</p>
+<p class="sports-shoes-BRy" id="10:80">Sports Shoes</p>
+</div>
+</div>
